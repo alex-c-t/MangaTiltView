@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Site Twiste",
+  "name": "Manga Tilt View",
   "version": "1.0",
   "description": "Rotate the website 90 degrees to the right for portrait mode viewing.",
   "permissions": ["activeTab", "scripting"],

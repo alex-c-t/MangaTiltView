@@ -47,12 +47,32 @@
         background-color: #444444; /* Darker black on click */
         box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2); /* Smaller shadow on click */
       }
+      .info-icon {
+        position: absolute;
+        top: 4px;
+        right: 5px;
+        font-size: 16px;
+        color: #ffffff;
+        text-decoration: none;
+        transition: color 0.3s;
+      }
+      .info-icon:hover {
+        color: #6c3483;
+      }
     </style>
   </head>
   <body>
     <div class="container">
       <button id="rotate">Rotate</button>
       <button id="revert">Revert</button>
+      <a href="https://github.com/alex-c-t/MangaTiltView/blob/dcc54a1a4698ad4c2ba2c7fcbae550ff4140317c/TERMS.md" target="_blank" class="info-icon" title="Terms and Conditions">
+        <svg class="info-icon" width="17px" height="17px"  viewBox="0 0 100 100">
+          <!-- <rect width="100%" height="100%" fill="lightblue" /> -->
+          <circle cx="50" cy="50" r="41" stroke="none" />
+          <circle cx="50" cy="33" r="5" fill="white" />
+          <path stroke-linecap="round" d="M50 47 l0 27" stroke="white" stroke-width="10"/>
+        </svg>
+      </a>
     </div>
     <script src="popup.js"></script>
   </body>

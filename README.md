@@ -23,3 +23,7 @@ MangaTiltView is a browser extension that enhances your manga and manhwa reading
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Terms and Conditions
+
+By using the MangaTiltView extension, you agree to our [Terms and Conditions](https://github.com/alex-c-t/MangaTiltView/blob/dcc54a1a4698ad4c2ba2c7fcbae550ff4140317c/TERMS.md).
