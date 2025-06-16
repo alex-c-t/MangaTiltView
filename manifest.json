@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Site Twiste",
+  "version": "1.0",
+  "description": "Rotate the website 90 degrees to the right for portrait mode viewing.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "laptop16.png",
+      "48": "laptop48.png",
+      "128": "laptop128.png"
+    }
+  },
+   "icons": {
+    "16": "laptop16.png",
+    "48": "laptop48.png",
+    "128": "laptop128.png"
+  }
+}
