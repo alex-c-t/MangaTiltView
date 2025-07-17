@@ -8,7 +8,7 @@ MangaTiltView is a browser extension that enhances your manga and manhwa reading
 - Works on all major manga and manhwa websites.
 
 ## Installation
-1. Download and install the extension from the [Firefox Add-ons](#).
+1. Download and install the extension from the [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/manga-tilt-view/).
 2. Click on the extension icon in your browser toolbar to activate the tilt feature.
 
 ## Usage

@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Manga Tilt View",
-  "version": "1.01",
+  "version": "1.1",
   "description": "Rotate the website 90 degrees to the right for portrait mode viewing.",
   "permissions": ["activeTab", "scripting"],
   "browser_action": {
@@ -12,7 +12,7 @@
       "128": "man-128.png"
     }
   },
-  "icons": {
+   "icons": {
     "16": "man-16.png",
     "48": "man-48.png",
     "128": "man-128.png"
