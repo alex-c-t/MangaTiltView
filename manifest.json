@@ -1,20 +1,20 @@
 {
   "manifest_version": 2,
   "name": "Manga Tilt View",
-  "version": "1.0",
+  "version": "1.01",
   "description": "Rotate the website 90 degrees to the right for portrait mode viewing.",
   "permissions": ["activeTab", "scripting"],
   "browser_action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "laptop16.png",
-      "48": "laptop48.png",
-      "128": "laptop128.png"
+      "16": "man-16.png",
+      "48": "man-48.png",
+      "128": "man-128.png"
     }
   },
   "icons": {
-    "16": "laptop16.png",
-    "48": "laptop48.png",
-    "128": "laptop128.png"
+    "16": "man-16.png",
+    "48": "man-48.png",
+    "128": "man-128.png"
   }
 }
